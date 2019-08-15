@@ -9,7 +9,7 @@ def speak_to_grandma (phrase)
   end
 end 
 
-gmasp = "hi" 
+gmasp = "HI" 
 
 speak_to_grandma(gmasp)
 
