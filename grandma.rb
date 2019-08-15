@@ -8,7 +8,10 @@ def speak_to_grandma (phrase)
     puts "I LOVE YOU TOO PUMPKIN!"
   end
 end 
-    
+
+gmasp = "hey" 
+
+speak_to_grandma(gmasp)
 
 # Whatever you say to grandma, she should respond with
 # HUH?! SPEAK UP, SONNY!
