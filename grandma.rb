@@ -6,6 +6,7 @@ def speak_to_grandma (phrase)
     puts "NOT SINCE 1938!"
   elsif phrase == "I LOVE YOU GRANDMA"
     puts "I LOVE YOU TOO PUMPKIN!"
+  else break
   end
 end 
     
