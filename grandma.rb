@@ -4,12 +4,12 @@ def speak_to_grandma (phrase)
     puts "HUH?! SPEAK UP, SONNY!"
   elsif (phrase.upcase && phrase != "I LOVE YOU GRANDMA") == true
     puts "NOT SINCE 1938!"
-  elsif phrase == "I LOVE YOU GRANDMA"
+  elsif phrase == "I LOVE YOU GRANDMA!"
     puts "I LOVE YOU TOO PUMPKIN!"
   end
 end 
 
-gmasp = "HI" 
+gmasp = "I LOVE YOU GRANDMA!" 
 
 speak_to_grandma(gmasp)
 
